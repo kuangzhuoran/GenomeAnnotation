@@ -11,3 +11,7 @@ https://doi.org/10.1093/molbev/msab134;
 https://doi.org/10.1038/s41559-023-02275-7;
 https://github.com/gotouerina/Annotation (Paper under review);
 https://github.com/duan12345678/Sympatric-speciation (Paper under review);
+
+#2026.4.13更新
+可以尝试一下：一行命令行就能完成基因组注释、还不需要做重复序列注释、效果还比EVM好的EviAnn
+https://github.com/alekseyzimin/EviAnn_release
